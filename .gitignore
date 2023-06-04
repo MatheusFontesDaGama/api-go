@@ -1,0 +1,4 @@
+.vscode/
+
+cmd/server/.env
+cmd/server/test.db
